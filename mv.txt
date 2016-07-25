@@ -1,1 +1,1 @@
-mv = move or rename a file or directory on the same system 
+mv = move or rename a file or directory on the same system and make the changes file on both directories.
