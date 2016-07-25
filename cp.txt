@@ -1,0 +1,1 @@
+cp = copy file or directory to another directory.
