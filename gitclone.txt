@@ -1,0 +1,1 @@
+git clone = clone/copy of the entire existing git repository/ file into a new directory via URL and enable the clone file to link back to the master copy(origin).
