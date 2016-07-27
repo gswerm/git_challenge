@@ -1,1 +1,0 @@
-upstream remove = can remotely upstream a file/ repository and making changes while pull requested/synced with the main repository.
